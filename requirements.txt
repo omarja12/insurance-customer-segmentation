@@ -8,6 +8,7 @@ category_encoders==2.6.0
 yellowbrick==1.5
 graphviz==0.20.1
 numexpr==2.8.4
+scikit-image==0.21.0
 SOMPY @ git+https://github.com/sevamoo/SOMPY.git@6aca604b06e5eea1391ecf507810c7aabafc3f8b
 nbconvert==7.16.4
 ipykernel==6.29.5
